@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<italia>
+<italia regione="Sardegna">
     <areaIncendiata>
         <anno>"2005"</anno>
         <comune>"ALGHERO"</comune>
         <provicia>"SASSARI"</provicia>
-        <regione>"Sardegna"</regione>
         <stir>"SASSARI"</stir>
         <localita>"LAZZARETTO"</localita>
         <stazione>"ALGHERO"</stazione>
@@ -15,14 +14,12 @@
         <comune_dato_ra>"Alghero"</comune_dato_ra>
         <provincia_dato_ra>"Sassari"</provincia_dato_ra>
         <province_al_2001>"Sassari"</province_al_2001>
-        <codice_istat_provincia>""</codice_istat_provincia>
         <idfeature>"721"</idfeature>
     </areaIncendiata>
     <areaIncendiata>
         <anno>"2007"</anno>
         <comune>"SELARGIUS"</comune>
         <provicia>"CAGLIARI"</provicia>
-        <regione>"Sardegna"</regione>
         <stir>"CAGLIARI"</stir>
         <localita>"C/O CIMITERO"</localita>
         <stazione>"SINNAI"</stazione>
@@ -33,14 +30,12 @@
         <comune_dato_ra>"Selargius"</comune_dato_ra>
         <provincia_dato_ra>"Cagliari"</provincia_dato_ra>
         <province_al_2001>"Cagliari"</province_al_2001>
-        <codice_istat_provincia>""</codice_istat_provincia>
         <idfeature>"1426"</idfeature>
     </areaIncendiata>
     <areaIncendiata>
         <anno>"2008"</anno>
         <comune>"SIURGUS DONIGALA"</comune>
         <provicia>"CAGLIARI"</provicia>
-        <regione>"Sardegna"</regione>
         <stir>"CAGLIARI"</stir>
         <localita>"ACQUA SALLIA"</localita>
         <stazione>"SENORBI'"</stazione>
@@ -51,14 +46,12 @@
         <comune_dato_ra>"Siurgus Donigala"</comune_dato_ra>
         <provincia_dato_ra>"Cagliari"</provincia_dato_ra>
         <province_al_2001>"Cagliari"</province_al_2001>
-        <codice_istat_provincia>""</codice_istat_provincia>
         <idfeature>"1472"</idfeature>
     </areaIncendiata>
     <areaIncendiata>
         <anno>"2008"</anno>
         <comune>"SUELLI"</comune>
         <provicia>"CAGLIARI"</provicia>
-        <regione>"Sardegna"</regione>
         <stir>"CAGLIARI"</stir>
         <localita>"CANNISONI"</localita>
         <stazione>"SENORBI'"</stazione>
@@ -69,7 +62,6 @@
         <comune_dato_ra>"Suelli"</comune_dato_ra>
         <provincia_dato_ra>"Cagliari"</provincia_dato_ra>
         <province_al_2001>"Cagliari"</province_al_2001>
-        <codice_istat_provincia>""</codice_istat_provincia>
         <idfeature>"1491"</idfeature>
     </areaIncendiata>
 </italia>
