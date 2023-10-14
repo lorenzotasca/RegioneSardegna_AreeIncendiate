@@ -2,10 +2,10 @@
 <!DOCTYPE italia[
 <!ELEMENT italia (areaIncendiata+)>
 <!ATTLIST italia regione CDATA #REQUIRED>
-<!ELEMENT areaIncendiata (anno,comune,provicia, stir, localita, stazione, tipo_zona, area, data, numero_incendio, comune_dato_ra, provincia_dato_ra, province_al_2001, idfeature)>
+<!ELEMENT areaIncendiata (anno,comune,provincia, stir, localita, stazione, tipo_zona, area, data, numero_incendio, comune_dato_ra, provincia_dato_ra, province_al_2001, idfeature)>
 <!ELEMENT anno (#PCDATA)>
 <!ELEMENT comune (#PCDATA)>
-<!ELEMENT provicia (#PCDATA)>
+<!ELEMENT provincia (#PCDATA)>
 <!ELEMENT stir (#PCDATA)>
 <!ELEMENT localita (#PCDATA)>
 <!ELEMENT stazione (#PCDATA)>

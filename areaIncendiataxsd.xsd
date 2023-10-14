@@ -8,7 +8,7 @@
                     <xs:sequence>
                         <xs:element name="anno" type="xs:string"/>
                         <xs:element name="comune" type="xs:string"/>
-                        <xs:element name="provicia" type="xs:string"/>
+                        <xs:element name="provincia" type="xs:string"/>
                         <xs:element name="stir" type="xs:string"/>
                         <xs:element name="localita" type="xs:string"/>
                         <xs:element name="stazione" type="xs:string"/>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet typetype="text/xsl" href="areaIncendiataStylesheet.xsl"?>
+<?xml-stylesheet type="text/xsl" href="areaIncendiataStylesheet.xsl"?>
 <italia regione="Sardegna">
     <areaIncendiata>
         <anno>"2005"</anno>
         <comune>"ALGHERO"</comune>
-        <provicia>"SASSARI"</provicia>
+        <provincia>"SASSARI"</provincia>
         <stir>"SASSARI"</stir>
         <localita>"LAZZARETTO"</localita>
         <stazione>"ALGHERO"</stazione>
@@ -20,7 +20,7 @@
     <areaIncendiata>
         <anno>"2007"</anno>
         <comune>"SELARGIUS"</comune>
-        <provicia>"CAGLIARI"</provicia>
+        <provincia>"CAGLIARI"</provincia>
         <stir>"CAGLIARI"</stir>
         <localita>"C/O CIMITERO"</localita>
         <stazione>"SINNAI"</stazione>
@@ -36,7 +36,7 @@
     <areaIncendiata>
         <anno>"2008"</anno>
         <comune>"SIURGUS DONIGALA"</comune>
-        <provicia>"CAGLIARI"</provicia>
+        <provincia>"CAGLIARI"</provincia>
         <stir>"CAGLIARI"</stir>
         <localita>"ACQUA SALLIA"</localita>
         <stazione>"SENORBI'"</stazione>
@@ -52,7 +52,7 @@
     <areaIncendiata>
         <anno>"2008"</anno>
         <comune>"SUELLI"</comune>
-        <provicia>"CAGLIARI"</provicia>
+        <provincia>"CAGLIARI"</provincia>
         <stir>"CAGLIARI"</stir>
         <localita>"CANNISONI"</localita>
         <stazione>"SENORBI'"</stazione>
