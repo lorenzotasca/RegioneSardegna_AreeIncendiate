@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet typetype="text/xsl" href="areaIncendiataStylesheet.xsl"?>
 <italia regione="Sardegna">
     <areaIncendiata>
         <anno>"2005"</anno>
