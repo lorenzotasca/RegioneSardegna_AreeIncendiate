@@ -26,7 +26,7 @@
                 
                 <table>
                     <tr>
-                        <th>Anno</th>
+                        <th>Classe</th>
                         <th>Provincia</th>
                         <th>Comune</th>
                         <th>Area</th>
@@ -34,10 +34,10 @@
                         <th>Idfeature</th>
                     </tr>
                     
-                    <xsl:for-each select="italia/areaIncendiata" order-by="anno">
+                    <xsl:for-each select="italia/areaIncendiata" order-by="provincia">
                 
                         <tr>
-                            <td><xsl:value-of select="anno"/></td>
+                            <td><xsl:value-of select="classe"/></td>
                             <td><xsl:value-of select="provincia"/></td>
                             <td><xsl:value-of select="comune"/></td>
                             <td><xsl:value-of select="area"/></td>
